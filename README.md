@@ -23,7 +23,7 @@ This project uses Git for version control to ensure that all changes are tracked
 ## Repository Structure
 The repository is structured to facilitate easy navigation and collaboration. Here's an overview of the key directories:
 
-- **/data/**: Raw and processed datasets used for analysis.
+- **/database/**: Raw and processed datasets used for analysis.
 - **/scripts/**: Power BI scripts, DAX formulas, and any automation scripts.
 - **/docs/**: Documentation related to the project, including the project plan, requirements, and design documents.
 - **/reports/**: Final reports and visualizations generated from the analysis.
